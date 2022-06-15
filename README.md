@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pravin-tiwari
-- 👀 I’m interested in ...
+<!-- - 👀 I’m interested in programming, online games, football, anime, bike riding, nature, technology, programming. -->
 - 🌱 I’m currently learning to integrate tech into world.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ...
 
 <!---
